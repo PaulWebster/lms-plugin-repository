@@ -1117,8 +1117,8 @@
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
       <title lang="EN">1001 Albums you must hear before you die</title>
     </plugin>
-    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="1225" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="4de5a25133b476fff0b48a22556b0fee94e941bf" url="https://www.herger.net/_data/Bandcamp-1.10.0.zip" version="1.10.0">
-      <changes lang="EN">v1.10.0: add support playlists.</changes>
+    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="1225" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="30895979795d3ba099c9df02a224fab69d53d8d3" url="https://www.herger.net/_data/Bandcamp-1.11.0.zip" version="1.11.0">
+      <changes lang="EN">v1.11.0: fix genre browsing.</changes>
       <desc lang="EN">Browse and play artists and tracks from bandcamp.com.</desc>
       <title lang="EN">Band's Campout</title>
     </plugin>
@@ -1135,9 +1135,9 @@
       <title lang="EN">Create docsets for Dash</title>
     </plugin>
     <plugin name="DRS" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/srf.svg" installations="471" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="ebd84dd6689c4ef0f6db02b68338a49de3d432a2" url="https://www.herger.net/_data/DRS-1.5.9.zip" version="1.5.9">
-      <desc lang="EN">Swiss Radio DRS Stream Meta Information Parser</desc>
-      <desc lang="DE">Schweizer Radio DRS Meta Informations Parser</desc>
-      <title lang="EN">Radio DRS Meta Information</title>
+      <desc lang="EN">Swiss Radio SRF Stream Meta Information Parser</desc>
+      <desc lang="DE">Schweizer Radio SRF Meta Informations Parser</desc>
+      <title lang="EN">Radio SRF Meta Information</title>
     </plugin>
     <plugin name="FileViewer" category="information" creator="Michael Herger" email="slim@herger.net" installations="207" link="https://www.herger.net/FileViewer/" maxTarget="*" minTarget="7.5" sha="033beae02e4a41d98597e2b87b5e9fe8bc1b7cdd" url="https://www.herger.net/_data/FileViewer-1.5.1.zip" version="1.5.1">
       <title lang="EN">Fileviewer</title>
