@@ -394,11 +394,6 @@
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
     </plugin>
-    <plugin name="RadioFeedsSBS" category="radio" creator="The AlienBBC Team and Vincent Lo" installations="739" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
-      <changes lang="EN">Plugin icon now shows for more smartphone control apps</changes>
-      <desc lang="EN">Access RadioFeeds UK and Ireland on your Squeezebox including AAC+ and HLS streams (requires PlayHLS). We are the internet's most up-to-date directory of live streams for UK and Irish radio stations. Please register for a username before using at http://www.radiofeeds.co.uk/squeeze</desc>
-      <title lang="EN">RadioFeeds UK and Ireland</title>
-    </plugin>
     <plugin name="SimpleLibraryViews" category="scanning" creator="Andy Hawkins" email="andy@gently.org.uk" installations="242" link="https://github.com/adhawkins/SimpleLibraryViews" maxTarget="*" minTarget="7.9.0" sha="c25d28d00d38bc9490664d80198c367b2d04d5f6" url="http://adhawkins.github.io/SimpleLibraryViews/SimpleLibraryViews-1.1.0.zip" version="1.1.0">
       <desc lang="EN">Plugin to easily generate library views.</desc>
       <title lang="EN">Simple Library Views</title>
@@ -867,11 +862,11 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="12938" link="" maxTarget="*" minTarget="7.9.0" sha="efb80817be9c36c53be773831fd924402704a69d" url="https://github.com/CDrummond/lms-material/releases/download/6.0.0/lms-material-6.0.0.zip" version="6.0.0">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="12938" link="" maxTarget="*" minTarget="7.9.0" sha="183e83c4ddde6751b39e02e52369b1a3dd548be5" url="https://github.com/CDrummond/lms-material/releases/download/6.0.1/lms-material-6.0.1.zip" version="6.0.1">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="binary changed to fix gapless issues, fix to loading presets" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="532" link="" maxTarget="*" minTarget="7.8.0" sha="a606657efd40697c8d9d7a66b7801312f24a0ef6" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.33/SqueezeDSP-0.1.33.zip" version="0.1.33">
+    <plugin name="SqueezeDSP" category="tools" changes="preset should load and apply in one go. tooltip colours fixed" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="532" link="" maxTarget="*" minTarget="7.8.0" sha="663bfd0998bef95e242c758f0eea9c40e8436778" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.34/SqueezeDSP-0.1.34.zip" version="0.1.34">
       <desc lang="EN">DSP for Lyrion Music Server - provides EQ and DSP.</desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
