@@ -641,10 +641,6 @@
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
       <title lang="EN">ARD Audiothek</title>
     </plugin>
-    <plugin name="Pyrrha" category="musicservices" creator="sspiff" installations="554" link="" maxTarget="*" minTarget="8.3.0" sha="2d2a0dea28735b0da984df9d9a2b472ed72e9c7c" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.6.0/lms-plugin-Pyrrha-0.6.0.zip" version="0.6.0">
-      <desc lang="EN">Daughter of Pandora</desc>
-      <title lang="EN">Pyrrha</title>
-    </plugin>
     <plugin name="DomoticzControl" category="tools" creator="Guillaume Zin" installations="40" link="" maxTarget="*" minTarget="7.4" sha="a6f4709113682a92571609ae87a242bf085e3bbc" url="https://guillaumezin.github.io/DomoticzControl/domoticzcontrol-v1.2.4.zip" version="1.2.4">
       <desc lang="EN">Control your Domoticz devices from your Jive based player. Parameters are located in player settings</desc>
       <desc lang="FR">Contrôle de vos périphériques Domoticz depuis votre platine basée sur Jive. Le paramétrage se fait dans l'onglet platine</desc>
